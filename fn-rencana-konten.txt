@@ -3,3 +3,4 @@ RENCANA KONTEN FN
 - REACTJS
 - NODEJS
 - VueJS
+- AngularJS
