@@ -1,6 +1,11 @@
 RENCANA KONTEN FN
 
-- REACTJS
-- NODEJS
+Framework JS
 - VueJS
-- AngularJS
+- ReactJS
+
+Framwork PHP
+- CI
+- Laravel
+
+Python
