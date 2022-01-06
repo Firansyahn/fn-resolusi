@@ -3,6 +3,8 @@ RENCANA KONTEN FN
 Framework JS
 - VueJS
 - ReactJS
+- NodeJS
+- AngularJS
 
 Framwork PHP
 - CI
