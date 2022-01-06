@@ -8,5 +8,6 @@ Framework JS
 
 Framwork PHP
 - CI
+- Laravel
 
 Python
