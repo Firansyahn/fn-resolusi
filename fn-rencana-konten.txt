@@ -1,10 +1,13 @@
 RENCANA KONTEN FN
 
 Framework JS
-- AngularJS
+- VueJS
 - ReactJS
 
 Framwork PHP
 - CI
 - Laravel
+
+
+Python
 
